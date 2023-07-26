@@ -1,6 +1,6 @@
 
 
-Check application <a href="https://god-of-war-landpage.netlify.app/">here!</a>
+Check application <a href="https://landing-dougdevs.vercel.app">here!</a>
 
 ![image](https://user-images.githubusercontent.com/82785683/234150029-19a42275-7a9c-45aa-b82f-df05834c28cd.png)
 ![image](https://user-images.githubusercontent.com/82785683/234150050-9fff8c45-160e-4b03-b0ac-a6ae951993d3.png)
